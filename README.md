@@ -17,6 +17,7 @@ I'm thrilled to have you here on my GitHub profile.
 - **Full-Stack Development**: 
   - 🌐 Creating seamless and responsive applications 
   - 🛠️ From dynamic front-end interfaces to robust back-end infrastructures (Node.js & MongoDB).
+  - learning MERN DEVELOPMENT
 
 - **Machine Learning**: 
   - 📊 Applying intelligent algorithms to solve real-world problems 
