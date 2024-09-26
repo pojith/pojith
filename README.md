@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **@pojith**! 
+# 👋 Hi, I’m **Pojith**! 
 I'm thrilled to have you here on my GitHub profile. 
 
 ---
