@@ -37,3 +37,4 @@ Feel free to reach out: **rpojith@gmail.com**. I’m always open to new ideas, p
 
 ## ⚡ Fun Fact:
 In a world full of complexity, zeros and ones remain the most reliable and honest. That’s why I trust in the power of code and the logic of 0's and 1's to bring clarity and precision to the digital landscape.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pojith&theme=dark)
