@@ -1,45 +1,57 @@
-# 👋 Hi, I’m **Pojith**! 
-I'm thrilled to have you here on my GitHub profile. 
+# 👋 **Hi, I’m Pojith!**  
+Welcome to my GitHub profile—I'm glad you're here! 🚀  
 
 ---
 
-## 👀 Passionate About:
-🌍 **Global Community**: Committed to exploring how technology can bridge gaps, foster connections, and drive positive change across the world. 
+## 👀 **What Drives Me**  
+🌍 **Global Community**: I’m passionate about using technology to bridge gaps, foster meaningful connections, and drive positive change around the world.  
+![Global Tech Animation](https://media.giphy.com/media/3o7TKMk1k5yQp6S8LM/giphy.gif)
 
 ---
 
-## 🌱 Currently Learning:
-- **DevOps**: 
-  - 🔄 Automating workflows 
-  - 🚀 Improving CI/CD pipelines 
-  - 🔍 Enhancing system reliability through effective monitoring and orchestration.
+## 🌱 **What I’m Learning**  
+- ### **DevOps**  
+  🔄 Automating workflows for efficiency  
+  🚀 Building robust CI/CD pipelines  
+  🔍 Improving system reliability through effective monitoring and orchestration  
 
-- **Full-Stack Development**: 
-  - 🌐 Creating seamless and responsive applications 
-  - 🛠️ From dynamic front-end interfaces to robust back-end infrastructures (Node.js & MongoDB).
-  - learning MERN DEVELOPMENT
+- ### **Full-Stack Development**  
+  🌐 Developing seamless, responsive applications  
+  🛠️ Building dynamic front-end interfaces and scalable back-end infrastructures (Node.js, MongoDB)  
+  📚 Currently focused on **MERN stack development**  
 
-- **Machine Learning**: 
-  - 📊 Applying intelligent algorithms to solve real-world problems 
-  - 🔍 Focused on data-driven decision-making and predictive analytics.
-
----
-
-## 💞 Eager to Collaborate:
-I’m looking to collaborate on projects that have a tangible impact on global society. Whether it’s building tools for social good or contributing to humanitarian tech, let’s create solutions together!
+- ### **Machine Learning**  
+  📊 Applying algorithms to solve real-world challenges  
+  🔍 Exploring data-driven decision-making and predictive analytics  
 
 ---
 
-## 📫 Let's Connect:
-Feel free to reach out: **rpojith@gmail.com**. I’m always open to new ideas, partnerships, and conversations about leveraging technology for global change!
+## 💞 **Let’s Collaborate**  
+I’m eager to work on projects that create a positive impact on society. From building tools for social good to contributing to humanitarian tech—let's build solutions together!  
+![Collaboration GIF](https://media.giphy.com/media/l0MYtH7rAqeqfKQ7u/giphy.gif)
 
 ---
 
-## ⚡ Fun Fact:
-In a world full of complexity, zeros and ones remain the most reliable and honest. That’s why I trust in the power of code and the logic of 0's and 1's to bring clarity and precision to the digital landscape.
+## 📫 **Connect with Me**  
+Feel free to reach out anytime:  
+📧 **rpojith@gmail.com**  
+Let’s connect, share ideas, and collaborate on using technology for a better world! 🌟  
+
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pojith&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pojith&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pojith&theme=dark)
 
+## ⚡ **Fun Fact**  
+In a world full of complexity, **zeros and ones** remain the most reliable and honest. I believe in the power of code and the logic of 0s and 1s to bring clarity, precision, and simplicity to the digital landscape.  
+![Tech Animation](https://media.giphy.com/media/xT1XGq9wQOGFbaH2VG/giphy.gif)
 
+---
+
+## 📊 **GitHub Stats**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pojith&show_icons=true&count_private=true&theme=radical" alt="Pojith's GitHub Stats" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojith&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🚀 **Let’s Code, Collaborate, and Create a Better World Together!**  
