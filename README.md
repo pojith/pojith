@@ -40,3 +40,5 @@ In a world full of complexity, zeros and ones remain the most reliable and hones
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pojith&theme=dark)
+https://github-readme-stats.vercel.app/api?username=pojith&show_icons=true&count_private=true&theme=radical
+
