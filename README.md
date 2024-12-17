@@ -46,8 +46,8 @@ In a world full of complexity, **zeros and ones** remain the most reliable and h
 ## 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pojith&show_icons=true&count_private=true&theme=radical" alt="Pojith's GitHub Stats" width="48%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojith&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pojith&show_icons=true&count_private=true&theme=radical" alt="Pojith's GitHub Stats" height="48%" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojith&layout=compact&theme=radical" alt="Top Languages" width="48%" height="48%" />
 </p>
 
 ---
