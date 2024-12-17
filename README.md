@@ -5,7 +5,7 @@ Welcome to my GitHub profile—I'm glad you're here! 🚀
 
 ## 👀 **What Drives Me**  
 🌍 **Global Community**: I’m passionate about using technology to bridge gaps, foster meaningful connections, and drive positive change around the world.  
-![Global Tech Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Global Tech Animation](https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ0NTI3NTcsIm5iZiI6MTczNDQ1MjQ1NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE3VDE2MjA1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhZGVmNmE4ZDM2MmU2Nzc5OGQwNTMyNzA3NTAwYWM1YjI5OWE4YjRjMWJiNTFiMzZhZWY1MDljMTBiMmVkMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mcnaW05QO6aNCT9VmlMbyImhOPU83Cz0YW-BLPNr1_I)
 
 ---
 
