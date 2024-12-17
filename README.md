@@ -26,7 +26,7 @@ Welcome to my GitHub profile—I'm glad you're here! 🚀
 
 ## 💞 **Let’s Collaborate**  
 I’m eager to work on projects that create a positive impact on society. From building tools for social good to contributing to humanitarian tech—let's build solutions together!  
-![Collaboration GIF](https://media.giphy.com/media/l0MYtH7rAqeqfKQ7u/giphy.gif)
+
 
 ---
 
@@ -39,7 +39,7 @@ Let’s connect, share ideas, and collaborate on using technology for a better w
 
 ## ⚡ **Fun Fact**  
 In a world full of complexity, **zeros and ones** remain the most reliable and honest. I believe in the power of code and the logic of 0s and 1s to bring clarity, precision, and simplicity to the digital landscape.  
-![Tech Animation](https://media.giphy.com/media/xT1XGq9wQOGFbaH2VG/giphy.gif)
+
 
 ---
 
