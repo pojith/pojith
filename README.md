@@ -5,7 +5,7 @@ Welcome to my GitHub profile—I'm glad you're here! 🚀
 
 ## 👀 **What Drives Me**  
 🌍 **Global Community**: I’m passionate about using technology to bridge gaps, foster meaningful connections, and drive positive change around the world.  
-![Global Tech Animation]([https://media.giphy.com/media/3o7TKMk1k5yQp6S8LM/giphy.gif](https://www.google.com/imgres?q=global%20community%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=gjV-fY87U3IhAM&vet=12ahUKEwjJ_v2umq-KAxVO4jgGHeGaHx0QM3oECHEQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjJ_v2umq-KAxVO4jgGHeGaHx0QM3oECHEQAA))
+![Global Tech Animation](https://www.google.com/imgres?q=global%20community%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&tbnid=gjV-fY87U3IhAM&vet=12ahUKEwjJ_v2umq-KAxVO4jgGHeGaHx0QM3oECHEQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjJ_v2umq-KAxVO4jgGHeGaHx0QM3oECHEQAA)
 
 ---
 
